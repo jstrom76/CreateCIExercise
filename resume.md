@@ -17,10 +17,10 @@ Teach all things *Git*, give away all the stickers, ensure world peace.
 Provide _world class support_ to customers on the GitHub platform
 
 ## Skills
-
+_underscore_
 ### Education
 
-Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
+Developed and _maintained_ various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
 
 ### Leadership
 
